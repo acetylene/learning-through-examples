@@ -3,6 +3,7 @@
     <words>
       <w>binstr</w>
       <w>bstr</w>
+      <w>cryptstr</w>
       <w>ordlowerfreq</w>
       <w>ordupperfreq</w>
       <w>outstr</w>
